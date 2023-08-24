@@ -18,3 +18,7 @@ Place a photo of each person in <code>C:\\Users\\[pcName]\\Desktop\\images\\</co
 ## Run
 For start real-time face recognition, run <code>main_video.py</code> on your ide.
 
+## Result
+This is the result of code for two person
+![image]()
+
