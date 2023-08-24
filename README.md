@@ -20,5 +20,5 @@ For start real-time face recognition, run <code>main_video.py</code> on your ide
 
 ## Result
 This is the result of code for two person
-![image]()
+![image](Result/1.png)
 
