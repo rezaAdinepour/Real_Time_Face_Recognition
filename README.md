@@ -16,5 +16,5 @@ For more detail, read [here](https://github.com/ageitgey/face_recognition/blob/m
 Place a photo of each person in <code>C:\\Users\\[pcName]\\Desktop\\images\\</code>path below. The name of each person should be placed on the file name.
 
 ## Run
-For start real-time face recognition, run <code>main.py</code>
+For start real-time face recognition, run <code>main_video.py</code> on your ide.
 
