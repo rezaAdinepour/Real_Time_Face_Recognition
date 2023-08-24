@@ -13,5 +13,8 @@ If you don't have [pip](https://pip.pypa.io/en/stable/) installed, this [Python 
 For more detail, read [here](https://github.com/ageitgey/face_recognition/blob/master/docs/installation.rst)
 
 ## Dataset
-Place a photo of each person in <code>C:\\Users\\[pcName]\\Desktop\\images\\</code>path below
+Place a photo of each person in <code>C:\\Users\\[pcName]\\Desktop\\images\\</code>path below. The name of each person should be placed on the file name.
+
+## Run
+For start real-time face recognition, run <code>main.py</code>
 
